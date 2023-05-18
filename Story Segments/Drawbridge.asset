@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cef2ff502f3ec4608aa32800053052f0, type: 3}
+  m_Name: Drawbridge
+  m_EditorClassIdentifier: 
+  storyText: "Drawbridge\r\n\r\nAs soon as you step onto the drawbridge, dozens of
+    horrific creatures with menacing, grotesque claws, large, razor sharp teeth and
+    wings to give them flight appear before you.  Normally, this would be a show
+    stopper.  However, you know these creatures are the creation of the wicked witch
+    Gertrude who is in league with the evil King Buttercup.  You also know all of
+    wicked witch Gertrude\u2019s creatures melt away when exposed to water.  And,
+    there just happens to be five gallon buckets of water lining each side of the
+    drawbridge at five foot intervals from one end of the drawbridge to the other.
+    \r\n\r\nSeriously, what are the chances of that?  It is almost as if this were
+    a convenient plot device in some fictional tale.  Nah!  That\u2019s crazy talk!
+    \r\n\r\nYou march across the drawbridge laying waste to the hideous creatures
+    with buckets of water as you go. You reach the end of the drawbridge.\r\n\r\nPress
+    1 to enter the castle\r\n"
+  nextStorySegments:
+  - {fileID: 11400000, guid: 4f66a1e96a41c4dd0a2c6ec8de31fcb5, type: 2}

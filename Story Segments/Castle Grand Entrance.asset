@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cef2ff502f3ec4608aa32800053052f0, type: 3}
+  m_Name: Castle Grand Entrance
+  m_EditorClassIdentifier: 
+  storyText: "Castle Grand Entrance\r\n\r\nYou are in the grand entrance of Castle
+    Buttercup.  To your right is a closed door.  In front of you, there is a long,
+    winding staircase leading up to the castle tower. \r\n\r\nPress 1 to enter the
+    door on your right \r\n\r\nPress 2 to climb the staircase"
+  nextStorySegments:
+  - {fileID: 11400000, guid: 5db22910625af4bf988ad6b2757f36b0, type: 2}
+  - {fileID: 11400000, guid: d2bff0cce81cf4383ae710704072360f, type: 2}
