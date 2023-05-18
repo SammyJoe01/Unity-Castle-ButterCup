@@ -6,8 +6,8 @@ This is a simple Unity game where the user can interact with a story by choosing
 ## **Getting Started**
 ### **Prerequisites**
 To play this game, you will need:
-Unity 20xx.x or later
-A web browser that supports WebGL
+1. Unity 20xx.x or later
+2. A web browser that supports WebGL
 
 ### **Installation**
 To install and run the game, follow these steps:
